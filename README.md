@@ -31,9 +31,8 @@
 
 ## 📫 Me contacter
 
-- Email : votre.email@example.com
-- LinkedIn : [VotreProfil](https://www.linkedin.com/in/votreprofil)
-- Twitter : [@votrehandle](https://twitter.com/votrehandle)
+- Email : mamyachina@gmail.com
+- LinkedIn : [VotreProfil](https://www.linkedin.com/in/achina-andrianantenaina)
 
 ---
 
