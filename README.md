@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Salut, moi c'est Anachi 👋</h1>
 
-<!--
-**AnachiAndria/AnachiAndria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</p>
 
-Here are some ideas to get you started:
+---
+<p align="center">
+[![AnachiAndria's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnachiAndria)](https://github.com/AnachiAndria/github-readme-stats)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## À propos de moi
+
+- 🔭 Je travaille actuellement sur des projets Python et web.
+- 🌱 J’apprends actuellement le développement backend et l’IA.
+- 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech !
+
+## 🛠️ Compétences
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📈 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anachi&show_icons=true&theme=radical" alt="anachi stats"/>
+</p>
+
+## 📫 Me contacter
+
+- Email : votre.email@example.com
+- LinkedIn : [VotreProfil](https://www.linkedin.com/in/votreprofil)
+- Twitter : [@votrehandle](https://twitter.com/votrehandle)
+
+---
+
+*Merci de visiter mon profil !*
