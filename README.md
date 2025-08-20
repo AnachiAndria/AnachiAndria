@@ -32,7 +32,7 @@
 ## 📫 Me contacter
 
 - Email : mamyachina@gmail.com
-- LinkedIn : [VotreProfil](https://www.linkedin.com/in/achina-andrianantenaina)
+- LinkedIn : [https://www.linkedin.com/in/achina-andrianantenaina]
 
 ---
 
