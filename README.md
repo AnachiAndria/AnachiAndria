@@ -13,8 +13,8 @@
 -->
 ## À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets Python et web.
-- 🌱 J’apprends actuellement le développement backend et l’IA.
+- 🔭 Je travaille actuellement sur des projets web.
+- 🌱 J’apprends actuellement le développement frontend avec Angular.
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech !
 
 ## 🛠️ Compétences
