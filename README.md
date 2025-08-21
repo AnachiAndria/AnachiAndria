@@ -5,11 +5,12 @@
 </p>
 
 ---
-<p align="center">
+<!--<p align="center">
 [![AnachiAndria's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnachiAndria)](https://github.com/AnachiAndria/github-readme-stats)
 </p>
 
 ---
+-->
 ## À propos de moi
 
 - 🔭 Je travaille actuellement sur des projets Python et web.
