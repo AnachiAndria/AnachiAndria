@@ -29,7 +29,7 @@
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anachi&show_icons=true&theme=radical" alt="anachi stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&theme=radical" alt="anachi stats"/>
 </p>
 
 ## 📫 Me contacter
