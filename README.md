@@ -29,7 +29,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&theme=radical" alt="anachi stats"/>
 </p>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnachiAndria&theme=github_dark" width="100%" alt="Contribution Graph" />
+</p>
 ## 📫 Me contacter
 
 - Email : mamyachina@gmail.com
