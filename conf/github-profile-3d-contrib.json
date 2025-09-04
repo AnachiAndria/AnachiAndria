@@ -17,7 +17,7 @@
         ]
     },
     {
-        "type": "bitmap",
+        "type": "season",
         "fileName": "night.svg",
         "backgroundColor": "none",
         "foregroundColor": "#eeeeff",
