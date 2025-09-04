@@ -17,7 +17,7 @@
         ]
     },
     {
-        "type": "rainbow",
+        "type": "gitblock",
         "fileName": "night.svg",
         "backgroundColor": "none",
         "foregroundColor": "#eeeeff",
