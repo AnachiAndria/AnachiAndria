@@ -19,7 +19,7 @@
     {
         "type": "rainbow",
         "fileName": "night.svg",
-        "backgroundColor": "#00000f",
+        "backgroundColor": "none",
         "foregroundColor": "#eeeeff",
         "strongColor": "rgb(255,200,55)",
         "weakColor": "#aaaaaa",
