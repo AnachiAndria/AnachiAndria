@@ -18,7 +18,7 @@
 - 🌱 J’apprends actuellement le développement frontend avec Angular  
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=red&hide_border=false)
 
 </td>
 <td width="50%" align="center">
