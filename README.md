@@ -7,20 +7,23 @@
   Salut, moi c'est Achina
 </h1>
 
-
-
-
-<!--<p align="center">
-[![AnachiAndria's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnachiAndria)](https://github.com/AnachiAndria/github-readme-stats)
-</p>
-
 ---
--->
 ## À propos de moi
 
 - 🔭 Je travaille actuellement sur des projets web.
 - 🌱 J’apprends actuellement le développement frontend avec Angular.
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech !
+
+<!--
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnachiAndria&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<p align="center">
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117)" />
+  <img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AnachiAndria&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=AnachiAndria&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117)" />
+</p>
+
+
 
 ## 🛠️ Compétences
 
