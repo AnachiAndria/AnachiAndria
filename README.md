@@ -18,18 +18,23 @@
 - 🌱 J’apprends actuellement le développement frontend avec Angular  
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=tokyonight-duo&hide_border=true)
 
 </td>
 <td width="50%" align="center">
 
-<picture>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=tokyonight-duo&hide_border=true)
+
+</td>
+</tr>
+<tr>
+  <td width="70%" align="center" colspan="2">
+    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/night.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/day.svg" />
   <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/night.svg" width="95%" />
 </picture>
 
-</td>
+  </td>
 </tr>
 </table>
 
