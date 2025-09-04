@@ -14,9 +14,13 @@
 - 🌱 J’apprends actuellement le développement frontend avec Angular.
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech !
 
-<!--
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnachiAndria&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
--->
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 
 ## 🛠️ Compétences
