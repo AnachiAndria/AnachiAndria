@@ -18,12 +18,6 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnachiAndria&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-<p align="center">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117)" />
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AnachiAndria&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=AnachiAndria&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117)" />
-</p>
-
-
 
 ## 🛠️ Compétences
 
