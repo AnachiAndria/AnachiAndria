@@ -1,8 +1,10 @@
-<h1 align="center">Salut, moi c'est Achina 👋</h1>
-
-<p align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-</p>
+  Salut, moi c'est Achina
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h1>
+
+
 
 ---
 <!--<p align="center">
