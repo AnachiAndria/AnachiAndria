@@ -13,13 +13,16 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-</br>
-- 🔭 Je travaille actuellement sur des projets web  
-- 🌱 J’apprends actuellement le développement frontend avec Angular  
+<br>
+  
+- 🔭 Je travaille actuellement sur des projets web
+
+- 🌱 J’apprends actuellement le développement frontend avec Angular
+  
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech
  
-
 </td>
+
 <td width="50%" align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=tokyonight-duo&hide_border=true)
