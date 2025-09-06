@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
+</br>
 - 🔭 Je travaille actuellement sur des projets web  
 - 🌱 J’apprends actuellement le développement frontend avec Angular  
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech
