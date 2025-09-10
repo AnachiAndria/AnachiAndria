@@ -34,7 +34,8 @@
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/night.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/day.svg" />
-  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/night.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/metropolis.svg" />
+  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/AnachiAndria/AnachiAndria/output-3d-contrib/metropolis.svg" width="95%" />
 </picture>
 
   </td>
