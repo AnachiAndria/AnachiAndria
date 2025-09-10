@@ -35,5 +35,262 @@
         ],
         "duration": "10s",
         "hueRatio": -7
+    },
+    {
+  "type": "bitmap",
+  "fileName": "metropolis.svg",
+  "backgroundColor": "none",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "rgb(255,200,55)",
+  "weakColor": "#aaaaaa",
+  "radarColor": "#47a042",
+  "growingAnimation": true,
+  "contribPatterns": [
+    {
+      "top": {
+        "backgroundColor": "#444444",
+        "foregroundColor": "#444444",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      },
+      "left": {
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      },
+      "right": {
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      }
+    },
+    {
+      "top": {
+        "backgroundColor": "#273128",
+        "foregroundColor": "#273128",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      },
+      "left": {
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      },
+      "right": {
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      }
+    },
+    {
+      "top": {
+        "backgroundColor": "#35291D",
+        "foregroundColor": "#a69D74",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      },
+      "left": {
+        "foregroundColor": "#a69D74",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x20",
+          "0x00",
+          "0x12",
+          "0x00",
+          "0x22",
+          "0x00",
+          "0x24"
+        ]
+      },
+      "right": {
+        "foregroundColor": "#a69D74",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x14",
+          "0x00",
+          "0x28",
+          "0x00",
+          "0x14",
+          "0x00",
+          "0x42"
+        ]
+      }
+    },
+    {
+      "top": {
+        "backgroundColor": "#252722",
+        "foregroundColor": "#a29B91",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00",
+          "0x00"
+        ]
+      },
+      "left": {
+        "foregroundColor": "#a29B91",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x24",
+          "0x00",
+          "0x20",
+          "0x00",
+          "0x12",
+          "0x00",
+          "0x22"
+        ]
+      },
+      "right": {
+        "foregroundColor": "#a29B91",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x14",
+          "0x00",
+          "0x42",
+          "0x00",
+          "0x14",
+          "0x00",
+          "0x28"
+        ]
+      }
+    },
+    {
+      "top": {
+        "backgroundColor": "#1E343F",
+        "foregroundColor": "#4e646f",
+        "width": 32,
+        "bitmap": [
+          "0x00000000",
+          "0x00000000",
+          "0x00000000",
+          "0x0007e000",
+          "0x003ffc00",
+          "0x00ffff00",
+          "0x01f81f80",
+          "0x03e007c0",
+          "0x07c003e0",
+          "0x078000e0",
+          "0x0f0000f0",
+          "0x0e0c3070",
+          "0x0e0c3070",
+          "0x1c0c3038",
+          "0x1c0c3038",
+          "0x1c0ff038",
+          "0x1c0ff038",
+          "0x1c0c3038",
+          "0x1c0c3038",
+          "0x0e0c3078",
+          "0x0e0c3070",
+          "0x0f0000f0",
+          "0x078000e0",
+          "0x078001e0",
+          "0x03e007c0",
+          "0x01f81f80",
+          "0x00ffff00",
+          "0x003ffc00",
+          "0x0007f000",
+          "0x00000000",
+          "0x00000000",
+          "0x00000000"
+        ]
+      },
+      "left": {
+        "foregroundColor": "#c2c6c9",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x54",
+          "0x00",
+          "0x62",
+          "0x00",
+          "0x28",
+          "0x00",
+          "0x42"
+        ]
+      },
+      "right": {
+        "foregroundColor": "#c2c6c9",
+        "width": 8,
+        "bitmap": [
+          "0x00",
+          "0x30",
+          "0x00",
+          "0x5a",
+          "0x00",
+          "0x44",
+          "0x00",
+          "0x54"
+        ]
+      }
     }
+  ]
+}
 ]
