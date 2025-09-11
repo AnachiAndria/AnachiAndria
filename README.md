@@ -47,24 +47,7 @@
 ---
 
 ## 🛠️ Compétences
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,docker,express,figma,git,github,html,java,ts,vue" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,linux,mysql,nodejs,php" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,react,tailwind" />
-  </a>
-</p>
--->
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" title="Vue" />
