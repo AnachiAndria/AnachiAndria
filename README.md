@@ -10,7 +10,7 @@
   
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="left">
 <br>
   
 - 🔭 Je travaille actuellement sur des projets web
