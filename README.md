@@ -27,6 +27,7 @@
 
 </td>
 </tr>
+
 <tr>
   <td width="70%" align="center" colspan="2">
 <picture>
