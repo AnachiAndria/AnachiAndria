@@ -19,7 +19,7 @@
 
 - 🌱 I am currently learning frontend development with Angular.
   
-- 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech
+- 💬 Feel free to contact me to collaborate or discuss tech.
  
 </td>
 
