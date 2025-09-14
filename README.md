@@ -15,7 +15,7 @@
 <td width="50%" align="left">
 <br>
   
-- 🔭 Je travaille actuellement sur des projets web
+- 🔭 I am currently working on web projects.
 
 - 🌱 J’apprends actuellement le développement frontend avec Angular
   
