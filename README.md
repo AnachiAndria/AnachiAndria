@@ -17,7 +17,7 @@
   
 - 🔭 I am currently working on web projects.
 
-- 🌱 J’apprends actuellement le développement frontend avec Angular
+- 🌱 I am currently learning frontend development with Angular.
   
 - 💬 N’hésitez pas à me contacter pour collaborer ou discuter tech
  
