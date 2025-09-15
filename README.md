@@ -14,6 +14,7 @@
 <tr>
 <td width="50%" align="left">
 <br>
+  
 - 🔭 I am currently working on web projects.
 
 - 🌱 I am currently learning frontend development with Angular.
