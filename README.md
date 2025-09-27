@@ -1,6 +1,4 @@
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-      
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3dubXF5MG9jbXYxZDl0YmU3aWdja2x5Z2M5NnZ1cTluNWY2bHZxeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9cw/cn2LKatpvy89MTVR3e/giphy.gif" width="30%"/>
 </p>
@@ -94,7 +92,10 @@
 ---
 
 ## 📬 Me contacter
-  <i class="devicon-facebook-plain colored"></i>
+<a href="https://instagram.com/felipe.elia" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="5%"/>
+</a>
+
 - 📧 Email : mamyachina@gmail.com  
 - 💼 LinkedIn : [Achina Andrianantenaina](https://www.linkedin.com/in/achina-andrianantenaina)
 
