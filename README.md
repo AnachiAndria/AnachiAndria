@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3dubXF5MG9jbXYxZDl0YmU3aWdja2x5Z2M5NnZ1cTluNWY2bHZxeiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9cw/cn2LKatpvy89MTVR3e/giphy.gif" width="30%"/>
 </p>
@@ -92,11 +94,7 @@
 ---
 
 ## 📬 Me contacter
-
-  <svg viewBox="0 0 128 128">
-    <rect fill="#3d5a98" x="4.83" y="4.83" width="118.35" height="118.35" rx="6.53" ry="6.53"></rect><path fill="#fff" d="M86.48 123.17V77.34h15.38l2.3-17.86H86.48v-11.4c0-5.17 1.44-8.7 8.85-8.7h9.46v-16A126.56 126.56 0 0091 22.7c-13.62 0-23 8.3-23 23.61v13.17H52.62v17.86H68v45.83z"></path>
-  </svg>
- 
+  <i class="devicon-facebook-plain colored"></i>
 - 📧 Email : mamyachina@gmail.com  
 - 💼 LinkedIn : [Achina Andrianantenaina](https://www.linkedin.com/in/achina-andrianantenaina)
 
