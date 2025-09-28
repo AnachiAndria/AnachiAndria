@@ -92,7 +92,7 @@
 ---
 
 ## 📬 Me contacter
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<!--<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.facebook.com/anachi.andrianantenaina" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="5%"/>
   </a>
@@ -111,7 +111,7 @@
     </svg>
       
   </a>
-</div>
+</div>-->
 
 
 - 📧 Email : mamyachina@gmail.com  
