@@ -76,7 +76,7 @@
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Stat
 
 <div align="center"> 
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&hide_border=true&title_color=0abde3&icon_color=1dd1a1&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" /> 
