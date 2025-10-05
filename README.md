@@ -24,7 +24,7 @@
 
 <td width="50%" align="center" border="transparent">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=tokyonight-duo&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnachiAndria&theme=tokyonight-duo&hide_border=false)
 
 </td>
 </tr>
