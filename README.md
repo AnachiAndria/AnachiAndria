@@ -1,4 +1,4 @@
-<img width="100%" src="conf/javascript.gif" height="100%" width="100%">
+<img width="100%" src="conf/mario.gif" height="100%" width="100%">
 
 <h1 style="margin-top:5%" align="center">— Hello, I'm Achina —</h1>
   
