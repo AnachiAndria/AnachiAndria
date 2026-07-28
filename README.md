@@ -81,7 +81,7 @@
 </div>
 
 ---
-
+<!--
 ## 📈 GitHub Stat
 
 <div align="center"> 
@@ -96,7 +96,7 @@
 </p>
 
 ---
-
+-->
 ## 📬 Contact me
 <!--<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.facebook.com/anachi.andrianantenaina" target="blank">
