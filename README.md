@@ -81,14 +81,14 @@
 </div>
 
 ---
-<!--
-## 📈 GitHub Stat
 
+## 📈 GitHub Stat
+<!--
 <div align="center"> 
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=AnachiAndria&show_icons=true&hide_border=true&title_color=0abde3&icon_color=1dd1a1&text_color=ffffff&bg_color=0d1117" alt="Statistiques GitHub" /> 
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnachiAndria&layout=compact&hide_border=true&title_color=0abde3&text_color=ffffff&bg_color=0d1117" alt="Langages les plus utilisés" /> 
 </div>
-
+-->
 <br>
 
 <p align="center">
@@ -96,7 +96,7 @@
 </p>
 
 ---
--->
+
 ## 📬 Contact me
 <!--<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.facebook.com/anachi.andrianantenaina" target="blank">
